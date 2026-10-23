@@ -127,9 +127,8 @@ section {
     align-items: center;
     justify-content: center;
     
-    /* --- NEW BACKGROUND CODE --- */
     /* Update 'my-background.jpg' to exactly match your image file name */
-    background-image: url('./Mountains.jpeg'); 
+    background-image: url('./laptop.jpeg'); 
     background-size: cover; /* Makes sure the image covers the entire section */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents the image from tiling */
