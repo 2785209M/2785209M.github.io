@@ -29,7 +29,7 @@ body {
 /* --- Typography & Buttons --- */
 h1, h2, h3 { margin-bottom: 1rem; }
 
-.highlight { color: var(--primary-color); }
+.highlight { color: white; }
 
 .btn {
     display: inline-block;
